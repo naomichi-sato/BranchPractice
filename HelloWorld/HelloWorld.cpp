@@ -1,4 +1,4 @@
-
+﻿
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -6,7 +6,9 @@
 void DrawHelloWorld()
 {
 	printf("Hello World!\n");
+	// 今回は両方の編集を適用
 	printf("ハローワールド！(WebUI)\n");
+	printf("ハローワールド！（ローカル）\n");
 }
 
 int main()
