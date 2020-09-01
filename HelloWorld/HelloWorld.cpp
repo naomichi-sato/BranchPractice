@@ -1,12 +1,12 @@
-
+ï»¿
 #include <stdio.h>
 #include <stdlib.h>
 
-// Hello World‚ğ•\¦‚·‚éŠÖ”
+// Hello Worldã‚’è¡¨ç¤ºã™ã‚‹é–¢æ•°
 void DrawHelloWorld()
 {
 	printf("Hello World!\n");
-	printf("ƒnƒ[ƒ[ƒ‹ƒhIiƒ[ƒJƒ‹j\n");
+	printf("ãƒãƒ­ãƒ¼ãƒ¯ãƒ¼ãƒ«ãƒ‰ï¼ï¼ˆãƒ­ãƒ¼ã‚«ãƒ«ï¼‰\n");
 }
 
 int main()
